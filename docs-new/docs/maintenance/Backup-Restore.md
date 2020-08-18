@@ -1,4 +1,17 @@
+---
+layout: default
+title: Backup and Restore
+parent: Maintenance
+---
+
 # Backup and Restore
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 The data stored by Apicurio Registry should be backed up regularly. While the procedure is essentially simple, there are several ways to do it depending on the type of persistence backend and where it's running.
 

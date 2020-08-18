@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Troubleshooting
-nav_order: 5
+parent: Maintenance
 ---
 
 # Troubleshooting
